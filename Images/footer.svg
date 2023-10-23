@@ -1,0 +1,53 @@
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+svg {
+  width: 100%;
+  position: fixed;
+  top: -1px;
+  transform: rotate(360deg);
+  overflow:visible;
+}
+.wave {
+    animation: wave 5s linear;
+    animation-iteration-count: infinite;  
+}
+@keyframes wave {
+  0% {
+        fill: #0AEFFF ;
+        transform: translateX(-0%);
+      }
+  10% {
+        transform: translateX(-10%);
+      }
+  20% {
+        transform: translateX(-20%);
+      }
+  30%{
+        transform: translateX(-30%);
+      }
+  50% {
+        fill: #0A23FF;
+        transform: translateX(-50%);
+      }
+  70%{
+    transform: translateX(-70%);
+  }
+  80% {
+    transform: translateX(-80%);
+  }
+  90% {
+    transform: translateX(-90%);
+  }
+  100% {
+        fill: #0AEFFF ;
+        transform: translateX(-105%);
+      }
+    }
+}
+</style>
+
+<defs> 
+  <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+</defs> 
+<use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
+</svg>
