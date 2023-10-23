@@ -10,15 +10,13 @@
 
 <div align="center">
     <p>Hey 👋, I'm R3D!</p>
-    <ul style="list-style-position: inside">
-        <li>⛵ I'm a dotnet developer working for a leisure insurance broker</li>
-        <li>💻 I use daily: .cs, .ts, .sql</li>
-        <li>📖 I am currently reading Domain Driven Design by Eric Evans</li>
-        <li>💬 Talk to me about sci-fi, c#, technology & films</li>
-        <li>🎮 I'm currently playing Elder Scrolls Blades</li>
-        <li>👯 We can connect to play some Clash of Code ⚔</li>
-        <li>⚡ Goal: Contribute to Github once a week!</li>
-    </ul>
+    <div>⛵ I'm a dotnet developer working for a leisure insurance broker</div>
+    <div>💻 I use daily: .cs, .ts, .sql</div>
+    <div>📖 I am currently reading Domain Driven Design by Eric Evans</div>
+    <div>💬 Talk to me about sci-fi, c#, technology & films</div>
+    <div>🎮 I'm currently playing Elder Scrolls Blades</div>
+    <div>👯 We can connect to play some Clash of Code ⚔</div>
+    <div>⚡ Goal: Contribute to Github once a week!</div>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
