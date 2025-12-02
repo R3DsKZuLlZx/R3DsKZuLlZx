@@ -1,42 +1,28 @@
 <p align="center">
-    <img src="./Images/welcome.gif">
+    <img src="./Images/header.png">
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
-<p align="center">
-    <img src="./Images/about.png" height="70px">
-</p>
+<h1 align="center">About</h1>
 
 <div align="center">
-    <p>Hey 👋, I'm R3D!</p>
-    <div>⛵ I'm a dotnet developer working for a leisure insurance broker</div>
-    <div>💻 I use daily: .cs, .ts, .sql</div>
+    <div>⛵ I'm a dotnet developer working for an insurance broker</div>
+    <div>💻 I use daily: .cs, .sh, .sql</div>
     <div>📖 I am currently reading Domain Driven Design by Eric Evans</div>
     <div>💬 Talk to me about sci-fi, c#, technology & films</div>
     <div>🎮 I'm currently playing Elder Scrolls Blades</div>
     <div>👯 We can connect to play some Clash of Code ⚔</div>
-    <div>⚡ Goal: Contribute to Github once a week!</div>
+    <div>⚡ Goal: Share my learnings with other Developers!</div>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
-<p align="center">
-    <img src="./Images/languages.png" height="80px">
-</p>
+<h1 align="center">Toolset</h1>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"   alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"     width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"    width="40" height="40"/>
-</div>
-
-<p align="center">
-    <img src="./Images/frameworks.png" height="90px">
-</p>
-
-<div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/angular-icon.svg" alt="angular" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/rider.svg" alt="rider" width="40" height="40"/>
@@ -50,15 +36,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<hr>
 
-<p align="center">
-    <img src="./Images/stats.png" height="80px">
-</p>
-
-<div align="center">
-    <img src="https://media4.giphy.com/media/h4I4WJmNXGQUCyZ4O0/giphy.gif?cid=ecf05e472afommyd28l1w8g8xahet05bwu3j8n52jtp8ozql&ep=v1_gifs_related&rid=giphy.gif&ct=s"  width="100px" height="100px">
-</div>
+<h1 align="center">GitHub Statistics</h1>
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=R3DsKZuLlZx&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=3&title=Commits,Followers,PullRequest">
@@ -68,23 +48,28 @@
     <img src="https://github-profile-trophy.vercel.app/?username=R3DsKZuLlZx&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=3&title=Repositories,Experience,Stars">
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3DsKZuLlZx&hide_title=true&theme=transparent">
-</div>
+<hr>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=R3DsKZuLlZx&hide_title=true&show_icons=true&count_private=true&line_height=21&theme=transparent">
-</div>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<p align="center">
-    <img src="./Images/joke.png" height="90px">
-</p>
+<h1 align="center">Since you've made it this far...</h1>
 
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width="500px"/>
 </div>
 
 <img src="./Images/footer.svg" width="100%">
+
+<style>
+    hr {
+        height: 2px;
+        background-color: #04A683;
+        border-radius: 8px;
+    }
+     
+    h1 {
+        font-family: 'Pacifico', cursive;
+        color: #04A683;
+        font-size: 3rem;
+        margin: 0;
+        padding: 0 0 2rem;
+    }
+</style>
