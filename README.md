@@ -2,9 +2,12 @@
     <img src="./Images/header.png">
 </p>
 
-<hr>
+<img src="./Images/hr.svg">
 
-<h1 align="center">About</h1>
+
+<p align="center">
+    <img src="./Images/about.svg">
+</p>
 
 <div align="center">
     <div>⛵ I'm a dotnet developer working for an insurance broker</div>
@@ -16,9 +19,11 @@
     <div>⚡ Goal: Share my learnings with other Developers!</div>
 </div>
 
-<hr>
+<img src="./Images/hr.svg">
 
-<h1 align="center">Toolset</h1>
+<p align="center">
+    <img src="./Images/toolset.svg">
+</p>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  width="40" height="40"/>
@@ -36,9 +41,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </div>
 
-<hr>
+<img src="./Images/hr.svg">
 
-<h1 align="center">GitHub Statistics</h1>
+<p align="center">
+    <img src="./Images/stats.svg">
+</p>
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=R3DsKZuLlZx&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=3&title=Commits,Followers,PullRequest">
@@ -48,28 +55,14 @@
     <img src="https://github-profile-trophy.vercel.app/?username=R3DsKZuLlZx&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=3&title=Repositories,Experience,Stars">
 </div>
 
-<hr>
+<img src="./Images/hr.svg">
 
-<h1 align="center">Since you've made it this far...</h1>
+<p align="center">
+    <img src="./Images/joke.svg">
+</p>
 
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width="500px"/>
 </div>
 
 <img src="./Images/footer.svg" width="100%">
-
-<style>
-    hr {
-        height: 2px;
-        background-color: #04A683;
-        border-radius: 8px;
-    }
-     
-    h1 {
-        font-family: 'Pacifico', cursive;
-        color: #04A683;
-        font-size: 3rem;
-        margin: 0;
-        padding: 0 0 2rem;
-    }
-</style>
