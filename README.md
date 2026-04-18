@@ -48,11 +48,11 @@
 </p>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=R3DsKZuLlZx&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=3&title=Commits,Followers,PullRequest">
+    <img src="https://github-profile-repo.vercel.app/?username=R3DsKZuLlZx&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=3&title=Commits,Followers,PullRequest">
 </div>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=R3DsKZuLlZx&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=3&title=Repositories,Experience,Stars">
+    <img src="https://github-profile-repo.vercel.app/?username=R3DsKZuLlZx&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=3&title=Repositories,Experience,Stars">
 </div>
 
 <img src="./Images/hr.svg">
